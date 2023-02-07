@@ -1,0 +1,493 @@
+.topbox {
+    width: 100%;
+    height: 70px;
+    background: #292929;
+    ;
+
+}
+
+body {
+    width:100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.topbox-logo {
+    margin-left: 15px;
+    padding-top: 20px;
+
+}
+
+.logo {
+    width: 70px;
+    height: 30px;
+    margin-right: 14px;
+    float: left;
+    overflow: auto;
+}
+
+.name-of-topbox {
+    width: 300px;
+    height: 50;
+    float: left;
+    line-height: px;
+
+    color: #ccc;
+    ;
+    overflow: auto;
+}
+
+.name {
+    border-left: 1px solid rgb(240, 239, 239);
+    padding-left: 19px;
+    padding-top: 0px;
+    width: 300px;
+    height: 30px;
+    font-size: 12px;
+    float: left;
+    overflow: visible;
+    line-height: .5cm
+}
+
+.nav-bar {
+    margin-right: 10px;
+
+}
+
+.nav {
+    /* list-style:none; */
+    width: max-content;
+    overflow: auto;
+}
+
+.menu-keys {
+    list-style: none;
+    float: left;
+    padding-left: 50px;
+}
+
+.a-tag {
+    text-decoration: none;
+    color: #ccc;
+}
+.topimage{
+    width: 100;
+    position: relative
+}
+
+.topimage img{
+    width:100%;
+    height:230px;
+    position: relative;
+    
+}
+.word1{
+ color:white;
+ top:165px;   
+ left: 24apx;
+ position: absolute;
+ font-size: 21px;
+}
+.word2{
+    position: absolute;
+    top:187px;
+    left: 24px;
+    color: white;
+    font-size:59px;
+}
+.middle-portion{
+    position: relative;
+    width: 100%;
+    height:1210px;
+    background-color: white;
+    top: 197.49px;
+}
+.paragraph1 {
+    position: relative;
+    top: 55px;
+    left: 24px;
+    font-size:24px;
+    color: darkgray;
+    font-family: Ubuntu, sans-serif !important;
+    line-height: 38px;
+}
+.heading1{
+    position: relative;
+    top: px;
+    left: 40px;
+    font-size: 51px;
+    font-family: Ubuntu, sans-serif !important;;
+    font-weight:normal ;
+}.icon1{
+    width: 106px;
+    height: 106px;
+    position: absolute;
+    left: 24px;
+    top: 32px;
+}.icons1{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left:83px;
+    background-color: white;
+    border:5px solid  rgb(19, 170, 207);
+    border-radius:50%;
+
+}
+.icon-name1{
+    top: 500px;
+    left: 67px;
+    font-family: Ubuntu, sans-serif !important;
+    font-size: 21px;
+    color:  rgb(19, 170, 207);
+    position: absolute;
+    word-spacing:1px
+}.icon-name2{
+    top: 520px;
+    left: 110px;
+    font-family: Ubuntu, sans-serif !important;
+    font-size: 21px;
+    color:  rgb(19, 170, 207);
+    position: absolute;
+}
+.icon2{
+    width: 106px;
+    height: 106px;
+    position: absolute;
+    left: 24px;
+    top: 32px;
+}.icons2{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left:386px;
+    background-color: white;
+    border:5px solid orangered;
+    border-radius:50%;
+
+}.icon-name3{
+    top: 500px;
+    left: 364px;
+    font-size: 21px;
+    color:  rgb(19, 170, 207);
+    position: absolute;
+    font-family: Ubuntu, sans-serif !important;
+    word-spacing:1px
+}.icon-name4{
+    top: 520px;
+    left: 438px;
+    font-family: Ubuntu, sans-serif !important;
+    font-size: 21px;
+    color:  rgb(19, 170, 207);
+    position: absolute;
+}.icon3{
+    width: 106px;
+    height: 106px;
+    position: absolute;
+    left: 24px;
+    top: 32px;
+}.icons3{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left:692px;
+    background-color: white;
+    border:5px solid rgb(19, 170, 207);
+    border-radius:50%;
+
+}.icon-name5{
+    top: 500px;
+    left: 740px;
+    font-size: 21px;
+    color:  rgb(19, 170, 207);
+    position: absolute;
+    font-family: Ubuntu, sans-serif !important;
+    word-spacing:1px
+}.icon-name6{
+    top: 520px;
+    left: 729px;
+    font-size: 21px;
+    color:  rgb(19, 170, 207);
+    position: absolute;
+    font-family: Ubuntu, sans-serif !important;
+}.icon4{
+    width: 106px;
+    height: 106px;
+    position: absolute;
+    left: 24px;
+    top: 32px;
+}.icons4{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left:995px;
+    background-color: white;
+    border:5px solid darkslategrey;
+    border-radius:50%;
+
+}.icon-name7{
+    top: 500px;
+    left: 970px;
+    font-size: 21px;
+    color:  rgb(19, 170, 207);
+    position: absolute;
+    font-family: Ubuntu, sans-serif !important;
+}
+.paragraph2{
+    position: relative;
+    top: 245px;
+    left: 24px;
+    font-size:20px;
+    font-family: Ubuntu, sans-serif !important;;
+    line-height: 34px;
+
+}
+.heading2{
+    position: absolute;
+    font-family: Ubuntu, sans-serif !important;
+    top: 725px;
+    left: 24px;
+    font-size: 40px;
+    font-weight: normal;
+    
+}
+.image1{
+    width:244px; height:176px;
+    position: absolute;
+    top: 830px;
+    left: 24px;
+    border-top: 3px solid #ccc;
+    border-left: 3px solid #ccc;
+    border-right: 3px solid  #ccc;
+
+}.image2{
+    position: absolute;
+    width:244px;
+    height:176px;
+    top: 830px;
+    left: 295px;
+    border-top: 3px solid #ccc;
+    border-left: 3px solid #ccc;
+    border-right: 3px solid  #ccc;
+    
+}.image3{
+    position: absolute;
+    width:244px;
+    height:176px;
+    top: 830px;
+    left: 565px;
+    border-top: 3px solid #ccc;
+    border-left: 3px solid #ccc;
+    border-right: 3px solid  #ccc;
+}
+.image4{
+    position: absolute;
+    width:244px;
+    height:176px;
+    top: 830px;
+    left: 835px;
+    border-top: 3px solid #ccc;
+    border-left: 3px solid #ccc;
+    border-right: 3px solid  #ccc;
+}.border1{
+    position: absolute;
+    width: 244px;
+    height: 120px;
+    top: 1008px;
+    left: 24px;
+    font-family: Ubuntu, sans-serif !important;
+    font-size: 14.5px;
+    border-right:3px solid #ccc;
+    border-left:3px solid  #ccc; 
+    border-bottom:3px solid #ccc;
+    background-color:shadow;
+}.discription1{
+    position:absolute;
+    top: 1015px;
+    left: 38px;
+    font-family: Ubuntu, sans-serif !important;
+    font-size: 14.5px;
+    color: mediumslateblue;
+    
+}.date1{
+    position: absolute;
+    top: 1090px;
+    left:38px;
+    font-size: 12px;
+    color: red;
+    font-weight: lighter;
+}.border2{
+    position: absolute;
+    width: 244px;
+    height: 120px;
+    top: 1008px;
+    left: 295px;
+    font-family: Ubuntu, sans-serif !important;
+    font-size: 14.5px;
+    border-right:3px solid #ccc;
+    border-left:3px solid  #ccc; 
+    border-bottom:3px solid #ccc;
+    background-color:shadow;
+}.discription2{
+    position:absolute;
+    top: 1015px;
+    left: 309px;
+    font-family: Ubuntu, sans-serif !important;
+    font-size: 14.5px;
+    color: mediumslateblue;
+    
+}.date2{
+    position: absolute;
+    top: 1090px;
+    left:309px;
+    font-size: 12px;
+    color: red;
+    font-weight: lighter;
+}.border3{
+    position: absolute;
+    width: 244px;
+    height: 120px;
+    top: 1008px;
+    left: 565px;
+    font-family: Ubuntu, sans-serif !important;
+    font-size: 14.5px;
+    border-right:3px solid #ccc;
+    border-left:3px solid  #ccc; 
+    border-bottom:3px solid #ccc;
+    background-color:shadow;
+}.discription3{
+    position:absolute;
+    top: 1015px;
+    left: 579px;
+    font-family: Ubuntu, sans-serif !important;
+    font-size: 14.5px;
+    color: mediumslateblue;
+    
+}.date3{
+    position: absolute;
+    top: 1090px;
+    left:579px;
+    font-size: 12px;
+    color: red;
+    font-weight: lighter;
+}.border4{
+    position: absolute;
+    width: 244px;
+    height: 120px;
+    top: 1008px;
+    left: 835px;
+    font-family: Ubuntu, sans-serif !important;
+    font-size: 14.5px;
+    border-right:3px solid #ccc;
+    border-left:3px solid  #ccc; 
+    border-bottom:3px solid #ccc;
+    background-color:shadow;
+}.discription4{
+    position:absolute;
+    top: 1015px;
+    left: 849px;
+    font-family: Ubuntu, sans-serif !important;
+    font-size: 14.5px;
+    color: mediumslateblue;
+    
+}.date4{
+    position: absolute;
+    top: 1090px;
+    left:849px;
+    font-size: 12px;
+    color: red;
+    font-weight: lighter;
+}
+.see-more{
+    position: absolute;
+    top: 1157px;
+    left: 24px;
+    font-size: 16px;
+    color: royalblue;
+}
+.footer{
+    position:relative;
+    width: 100%;
+    height: 144px;
+    top: 179px;
+    background-color: #ededed;;
+}
+.copyright{
+    position: absolute;
+    left: 24px;
+    top: 31px;
+    font-size: 12px;
+    font-family: Ubuntu, sans-serif !important;
+}
+.bachlor{
+    position: absolute;
+    top: 46px;
+    left: 24px;
+    font-size: 13px;
+    font-family: Ubuntu, sans-serif !important;
+}
+.carleton{
+    position: absolute;
+    top: 61.5px;
+    left: 24px;
+    font-size: 13px;
+    font-family: Ubuntu, sans-serif !important;
+}
+.ottawa{
+    position: absolute;
+    top: 77px;
+    left: 24px;
+    font-size: 13px;
+    font-family: Ubuntu, sans-serif !important;
+}
+.insta-icon{
+position: absolute;
+width: 32px;
+height:32px;
+left: 875px;
+top: 31px;
+}
+.twiter-icon{
+    position: absolute;
+width: 32px;
+height:32px;
+left: 928px;
+top: 31px;
+
+}
+.linkdin-icon{
+position: absolute;
+ width: 32px;
+height:32px;
+left: 981px;
+top: 31px;
+}
+.fb-icon{
+    position: absolute;
+ width: 32px;
+height:32px;
+left: 1035px;
+top: 31px;
+}
+.cu-logo{
+    position: absolute;
+    width: 325px;
+   height:32px;
+   left: 735px;
+   top: 71px
+}
+.ac-logo{
+    position: absolute;
+    width: 139.2px;
+   height:32px;
+   left: 981px;
+   top: 71px
+}
+.jesson{
+    position: absolute;
+    font-size:13px;
+   left: 981px;
+   top: 101px
+}
